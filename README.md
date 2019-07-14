@@ -15,4 +15,4 @@ CSS有很多为人不知的技巧与用法，而大多数开发者在开发的�
 ---
 更多优质文章关注微信公众号：六小登登，加我微信，拉你进入优质前端交流群。
 
-![](https://blog-1257601889.cos.ap-shanghai.myqcloud.com/small-solgan.png)
+![](./small-solgan.png)
